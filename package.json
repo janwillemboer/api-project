@@ -1,0 +1,8 @@
+{
+  "name": "api-project",
+  "main": "index.js",
+  "dependencies": {
+    "fastify": "^4.23.0",
+    "mercurius": "^13.1.0"
+  }
+}
